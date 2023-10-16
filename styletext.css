@@ -1,0 +1,17 @@
+
+/*      estilo para styletext.html        */
+/*       autor:Juan Cid                   */
+/*       versión:1.0                      */
+/*     comentario: practicando css externo */
+
+
+ /* selectores de etiqueta */
+ body {background-color: black;
+    color: white;}
+    h2 {color: salmon;}
+    /* selectoor de clase */
+    #encabezadop1 {text-align: right;}
+    /* selectorde class, colectivo */
+    .centrado  {text-align: center;}
+    /* selector contextual, añade contexto, más de un selector separados con espacios */
+    .centrado b {color: red;}
